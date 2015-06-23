@@ -4,3 +4,5 @@
       var executiveBuildings = {};
       executiveBuildings.whiteHouse = L.marker([38.8977, -77.0366]).addTo(theMap);
       executiveBuildings.woodburn = L.marker([39.1614, -75.5234]).addTo(theMap);
+      theMap.setView([40.111688665595956, -73.8720703125], 6)
+      
